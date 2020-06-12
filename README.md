@@ -1,4 +1,4 @@
-# WANPNG-UIKit
+# UIKit-Starter
 
 ## Installation
 
@@ -13,5 +13,3 @@ yarn
 ```bash
 yarn run storybook
 ```
-
-WANPNG UIKit Storybook running on http://localhost:3003
