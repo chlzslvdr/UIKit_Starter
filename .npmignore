@@ -1,0 +1,6 @@
+.git
+.storybook
+.vscode
+build
+public
+src
