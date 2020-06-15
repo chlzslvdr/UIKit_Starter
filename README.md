@@ -1,4 +1,4 @@
-# UIKit-Starter
+# UIKit_Starter
 
 ## Installation
 
